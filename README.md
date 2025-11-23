@@ -101,7 +101,7 @@ A simple CRUD form for user records.
 
 The manager should be able to:
 
-*   Add a task to assign an employee
+*   Assign a task to an employee
     
 *   Update completion date
     
@@ -239,11 +239,11 @@ Every modal action (create/update/delete) must show:
 
 We will provide you with the starter project structure and database schema at:
 
-🔗 [https://github.com/username/projectname](https://github.com/mokhles018/HR-Management-Test)
+🔗 https://github.com/mokhles018/HR-Management-Test
 
 Please follow these steps:
 
-### **1\. Clone the repository**: git clone [https://github.com/username/projectname](https://github.com/mokhles018/HR-Management-Test)
+### **1\. Clone the repository**: git clone https://github.com/mokhles018/HR-Management-Test
 
 ### **2\. Install dependencies**
 
