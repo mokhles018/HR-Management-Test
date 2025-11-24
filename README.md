@@ -1,7 +1,7 @@
 **📄 Coding Test — HR Management Application**
 ==============================================
 
-**Time:** 3 hours
+**Time:** 3 hours,
 **Goal:** Evaluate your ability to build a small but functional full-stack application using Next.js, Prisma, React Hook Form, and Zod.
 
 **🎯 Project Overview**
