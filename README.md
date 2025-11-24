@@ -257,7 +257,7 @@ more..
 
 ### **4\. Run Prisma migrations**
 
-npx prisma migrate dev
+pnpm prisma migrate dev
 
 ### **5\. Start the project**
 
