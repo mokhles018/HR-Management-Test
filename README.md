@@ -247,7 +247,7 @@ Please follow these steps:
 
 ### **2\. Install dependencies**
 
-npm install
+pnpm install
 
 ### **3\. Configure environment**
 
@@ -261,7 +261,7 @@ npx prisma migrate dev
 
 ### **5\. Start the project**
 
-npm run dev
+pnpm run dev
 
 **📤 What You Must Submit**
 ===========================
