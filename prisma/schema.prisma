@@ -25,13 +25,13 @@ model User {
   phone          String
   password       String
   authToken      String    @unique
-  address        String
+  address        String?
   designation    String
   department     String
   role           Role
-  joiningDate    DateTime
-  salary         Int
-  contractExpire DateTime
+  joiningDate    DateTime?
+  salary         Int?
+  contractExpire DateTime?
   
   attendances    Attendance[]
   performances   Performance[]

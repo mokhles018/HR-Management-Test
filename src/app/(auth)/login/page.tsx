@@ -18,6 +18,7 @@ import {
 } from "@/components/ui/form";
 import { Input } from "@/components/ui/input";
 import { useForm } from "react-hook-form";
+import Link from "next/link";
 
 export default function Page() {
   const form = useForm({
@@ -93,6 +94,15 @@ export default function Page() {
                 </Button>
               </form>
             </Form>
+            <div className="text-center text-sm mt-2">
+              <span>I haven&apos;t account? </span>
+              <Link
+                href="/create-account"
+                className="text-blue-600 hover:underline"
+              >
+                Create an account
+              </Link>
+            </div>
           </CardContent>
         </Card>
       </div>
