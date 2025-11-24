@@ -281,7 +281,7 @@ HR → hr@example.com / 123456
 
 Manager → manager@example.com / 123456
 
-4️⃣ **Submitted Emails**mokhles.xponent@gmail.comgazinafis.xponent@gmail.com
+4️⃣ **Submitted Emails** mokhles.xponent@gmail.comgazinafis.xponent@gmail.com
 
 **Note:** README.md must contain the env file, login credentials, and live deployment link. GitHub link should be shared with the mentioned email addresses.
 
